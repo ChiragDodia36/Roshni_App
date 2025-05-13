@@ -54,4 +54,4 @@ This app contains 5 modules :
 # Authors
 
  * [Priyaank Parekh](https://github.com/priyaankparekh)
- * [Chirag_Dodia(https://github.com/ChiragDodia36)
+ * [Chirag_Dodia](https://github.com/ChiragDodia36)
